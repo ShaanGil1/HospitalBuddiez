@@ -1,6 +1,4 @@
 ![](logo.png) 
-# HospitalBuddiez
-
 
 ## Inspiration
 COVID isolation has given us a sense of what patients confined in hospitals must feel like. The limited interaction and the physical barriers has inspired a solution of contactless connection among not just COVID patients, but all patients alike. Connecting people together who are able to empathize with each other's situations is incredibly valuable and may provide some sense of relief for those who cannot easily reach out for support.
