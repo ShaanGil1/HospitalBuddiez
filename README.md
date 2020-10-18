@@ -23,3 +23,5 @@ As we were brainstorming our ideas for this challenge, we had to decide upon the
 
 ## What's next for Hospital Buddiez
 As mentioned above, expanding the scope of our project from hospital-wide to global would raise several new concerns that cannot be addressed at this time; however this is a potential direction our project may take in the future, as beyond creating more functionality to our application, finding ways to include more patients outside of a hospital setting would be a goal, as physical therapy, mental health, and senior center patients are just some of the population that may find use and companionship through this app.
+
+[Link to Adobe XD Prototype](https://xd.adobe.com/view/a3b97f81-e703-47cb-988d-916a6db43656-f6ea/)
