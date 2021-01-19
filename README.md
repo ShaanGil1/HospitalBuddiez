@@ -26,4 +26,4 @@ As mentioned above, expanding the scope of our project from hospital-wide to glo
 
 [Link to Adobe XD Prototype](https://xd.adobe.com/view/a3b97f81-e703-47cb-988d-916a6db43656-f6ea/)
 
-[Link to Devpost] (https://devpost.com/software/hospital-buddiez)
+[Link to Devpost](https://devpost.com/software/hospital-buddiez)
